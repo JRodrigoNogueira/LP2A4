@@ -7,4 +7,5 @@ Atividades da disciplina de Linguagem de Programação II
 
 3. [CRUD](https://github.com/JRodrigoNogueira/LP2A4/tree/master/LP2A4)
 
-3.1. [CRUD-SQL](https://github.com/JRodrigoNogueira/IFSP
+3.1. [CRUD-SQL](https://github.com/JRodrigoNogueira/CRUD_Java
+
